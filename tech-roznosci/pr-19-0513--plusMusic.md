@@ -10,5 +10,10 @@ Am (A E C)...
 
 oo
 
+https://idangero.us/swiper/ - swiper, js ?
+https://idangero.us/swiper/demos/ - widac jak dziala, fajnie sie przewija... ,,,
+
+oo
+
 
 xx
