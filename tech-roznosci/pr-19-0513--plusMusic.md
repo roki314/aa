@@ -15,6 +15,7 @@ https://idangero.us/swiper/demos/ - widac jak dziala, fajnie sie przewija... ,,,
 
 oo
 https://opensource.guide/how-to-contribute/ -- opensource przewodnik ...
+https://github.blog/2016-06-23-the-shape-of-open-source/ -- tak to wyglada...
 
 oo
 
