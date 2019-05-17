@@ -18,5 +18,9 @@ https://opensource.guide/how-to-contribute/ -- opensource przewodnik ...
 https://github.blog/2016-06-23-the-shape-of-open-source/ -- tak to wyglada...
 
 oo
+https://atom.io/ -- collaborating on code ...
+
+oo
+
 
 xx
