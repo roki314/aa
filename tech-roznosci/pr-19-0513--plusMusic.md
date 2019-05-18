@@ -20,7 +20,13 @@ https://github.blog/2016-06-23-the-shape-of-open-source/ -- tak to wyglada...
 oo
 https://atom.io/ -- collaborating on code ...
 
-oo
-
+### Sobota
+- https://www.cpubenchmark.net/compare/Intel-i3-8130U-vs-Intel-i5-8250U/3225vs3042
+- https://cpu.userbenchmark.com/Compare/Intel-Core-i5-8250U-vs-Intel-Core-i7-8550U/m338266vsm320742
+- oo
+- https://www.youtube.com/watch?v=P4ZC3cFN0WQ - docker [ ] [ ]
+- https://pl.wikipedia.org/wiki/Node.js
+- What is Node.js? | Mosh - https://www.youtube.com/watch?v=uVwtVBpw7RQ
+- https://www.youtube.com/watch?v=yE9v9rt6ziw -- python 4 beginners
 
 xx
