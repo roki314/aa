@@ -30,6 +30,7 @@ https://atom.io/ -- collaborating on code ...
 - https://www.youtube.com/watch?v=yE9v9rt6ziw -- python 4 beginners
 ##### niedziela
 - https://pclab.pl/art80559.html -- Labotomia #15 , sztuczna inteligencja ,,, i inne tematy ,,,
-- https://en.wikipedia.org/wiki/Lint_(software)
+- https://github.com/marketplace/codacy - an automated **code analysis/quality** tool 
+- code linter ,,,  https://en.wikipedia.org/wiki/Lint_(software)
 
 xx
