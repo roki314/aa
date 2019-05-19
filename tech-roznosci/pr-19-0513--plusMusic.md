@@ -28,5 +28,7 @@ https://atom.io/ -- collaborating on code ...
 - https://pl.wikipedia.org/wiki/Node.js
 - What is Node.js? | Mosh - https://www.youtube.com/watch?v=uVwtVBpw7RQ
 - https://www.youtube.com/watch?v=yE9v9rt6ziw -- python 4 beginners
+##### niedziela
+https://pclab.pl/art80559.html -- Labotomia #15 , sztuczna inteligencja ,,, i inne tematy ,,,
 
 xx
