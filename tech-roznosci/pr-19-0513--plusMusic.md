@@ -32,5 +32,13 @@ https://atom.io/ -- collaborating on code ...
 - https://pclab.pl/art80559.html -- Labotomia #15 , sztuczna inteligencja ,,, i inne tematy ,,,
 - https://github.com/marketplace/codacy - an automated **code analysis/quality** tool 
 - code linter ,,,  https://en.wikipedia.org/wiki/Lint_(software)
+- o
+- https://pl.wikipedia.org/wiki/PyCharm - ide
+- https://pl.wikipedia.org/wiki/Google_App_Engine - chmura
+- https://pl.wikipedia.org/wiki/Platform_as_a_Service - ---
+- o
+- http://plugins.jetbrains.com/?pycharm
+- http://www.jetbrains.com/education/#lang=python&role=learner
+- o
 
 xx
