@@ -47,5 +47,13 @@ https://github.com/autyzm-pg/friendly-plans/issues/300#issuecomment-397597984 - 
 - https://github.com/angular/angular-cli/blob/master/packages/angular/cli/README.md 
 - https://github.com/annlisie/movie-me - ann lisie , angular
 
+### -5-27 Pon
+- https://medium.com/code-yoga/how-to-link-android-studio-with-github-312037a13b99 - fajne, +inne propozycje... np.:
+- https://medium.com/@studymongolian/updating-data-in-an-android-recyclerview-842e56adbfd8
+- https://stackoverflow.com/questions/16433970/unable-to-auto-detect-email-address - config, git config
+###  --- Wto
+- Tom...
+- 
+
 
 xx
